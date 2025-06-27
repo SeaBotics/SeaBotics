@@ -12,7 +12,7 @@ SeaBotics is a student-driven team at the University of Agder (UiA) developing f
 **Competitions:** Annual AutoDrone & Njord Challenge  
 **Want to join?** We’re open to all UiA students—practical minds, innovators, and boat lovers alike!
 
-[Website](https://seaboticsuia.com/) | [LinkedIn](https://www.linkedin.com/company/seabotics/)
+[Website](https://seaboticsuia.com/) | [LinkedIn](https://www.linkedin.com/company/seabotics/) | [Instagram](https://www.instagram.com/seabotics_uia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) | [Facebook](https://www.facebook.com/profile.php?id=61575127559499)
 
 > We like boats.
 
